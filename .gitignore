@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+venv/git commit -m "Initial commit: Add anomaly detection project with MLflow and Gradio"
+
+.venv/
+
+# Environment variables
+.env
+
+# MLflow
+mlruns/
+
+# IDE / Editor specific
+.vscode/# Replace <YOUR_REPOSITORY_URL> with the URL you just copied
+git remote add origin <git@github.com:judeszn/sample_rag.git>

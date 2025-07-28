@@ -1,0 +1,8 @@
+scikit-learn
+mlflow
+numpy
+skl2onnx
+gradio
+langchain-openai
+langchain
+python-dotenv
